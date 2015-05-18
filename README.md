@@ -1,2 +1,4 @@
-# Java-for-Everyone-Solutions
-Homework Practice for the Book "Java for Everyone"
+Java-for-Everyone-Solutions
+=====================
+
+This is the Homework Practice for the Book "Java for Everyone".
